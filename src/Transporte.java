@@ -2,6 +2,10 @@
 public class Transporte {
 	private Pasajero pasajero;
 	private Unidad unidad;
+	
+	
+	
+	
 	private Modalidad modalidad;
 
 	public Pasajero getPasajero() {
